@@ -125,3 +125,12 @@ adb install -r ProjectivyLauncher-4.68-c82-xda-release.apk
 > Note: Replace the filename with the version you downloaded.
 
 And that's it! Your Xiaomi Smart TV should now be significantly faster and less bloated.
+
+
+----
+
+### Custom apps
+
+Youtube: https://github.com/reisxd/TizenTubeCobalt
+Jellyfin client: https://github.com/damontecres/Wholphin
+
